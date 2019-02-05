@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_DirtyRead", "002_DirtyRead\002_DirtyRead.csproj", "{B3412EE8-4D86-4F5C-A4A4-7B8DCA16C404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_DirtyRead", "001_DirtyRead\001_DirtyRead.csproj", "{A5BFBA9E-952A-471B-BF5B-9F94C8777D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3412EE8-4D86-4F5C-A4A4-7B8DCA16C404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3412EE8-4D86-4F5C-A4A4-7B8DCA16C404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3412EE8-4D86-4F5C-A4A4-7B8DCA16C404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3412EE8-4D86-4F5C-A4A4-7B8DCA16C404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5BFBA9E-952A-471B-BF5B-9F94C8777D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BFBA9E-952A-471B-BF5B-9F94C8777D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BFBA9E-952A-471B-BF5B-9F94C8777D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BFBA9E-952A-471B-BF5B-9F94C8777D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
